@@ -25,6 +25,7 @@ node server.js
 	Conntected To Mongo Database
 
 3- Finally the model (Coco-Ssd) is loaded successfully, this may take several seconds before appearing.
+	
 	model uploaded successfully
 
 
