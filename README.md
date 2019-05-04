@@ -12,7 +12,7 @@ manual inspection.
 
 ## For starting the server :
 
-node server.js 
+	node server.js 
 
 ## After starting the server. Wait for 3 things to be printed in the console :
 
