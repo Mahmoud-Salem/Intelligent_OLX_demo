@@ -32,4 +32,4 @@ manual inspection.
 
 
 
-### For more info about the project --> Report.pdf 
+### For more info about the project --> CSEN-1085-Web-Analytics-Project-2-Report.pdf 
