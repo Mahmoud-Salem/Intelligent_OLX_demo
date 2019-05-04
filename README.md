@@ -10,11 +10,11 @@ inspection. In addition, this process will be much faster in taking action than
 manual inspection.
 
 
-##For starting the server :
+## For starting the server :
 
 node server.js 
 
-##After starting the server. Wait for 3 things to be printed in the console :
+## After starting the server. Wait for 3 things to be printed in the console :
 
 1- First the server starts listening to a specific port. 
 
@@ -28,4 +28,4 @@ node server.js
 	model uploaded successfully
 
 
-###For more info about the project --> Report.pdf 
+### For more info about the project --> Report.pdf 
