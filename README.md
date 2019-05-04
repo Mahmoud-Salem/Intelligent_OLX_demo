@@ -13,6 +13,8 @@ manual inspection.
 ## For starting the server :
 
 	node server.js 
+## Then you enter the url :
+	http://localhost:8080/
 
 ## After starting the server. Wait for 3 things to be printed in the console :
 
@@ -27,6 +29,7 @@ manual inspection.
 3- Finally the model (Coco-Ssd) is loaded successfully, this may take several seconds before appearing.
 	
 	model uploaded successfully
+
 
 
 ### For more info about the project --> Report.pdf 
